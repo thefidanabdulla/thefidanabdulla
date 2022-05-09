@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fidan</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=sHtbv8Mr&id=EAE2B96BCFA1A3324160B7611150565072F1AA84&thid=OIP.sHtbv8MrSViBDVmnnNOqyQHaHa&mediaurl=https%3a%2f%2fbestanimations.com%2fEarth%26Space%2fastronaut-in-space-animation-4.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b07b5bbfc32b4958810d59a79cd3aac9%3frik%3dhKrxclBWUBFhtw%26pid%3dImgRaw%26r%3d0&exph=300&expw=300&q=astronaut+animated+gif&simid=608016422805207398&FORM=IRPRST&ck=74BB510FEF20ADF377B64BFD19BCF06D&selectedIndex=18&ajaxhist=0&ajaxserp=0" />
+<img align="right" alt="Coding" width="400" src="https://bestanimations.com/Earth&Space/astronaut-in-space-animation-4.gif" />
 
 
 - 🔭 I’m currently working on **Frontend development projects**
