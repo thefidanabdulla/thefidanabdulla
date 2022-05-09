@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.c620e3ef7b7e6c10cb649fc65250e76f?rik=GHPwv0C0WkCATQ&pid=ImgRaw&r=0)]
+![MasterHead](https://th.bing.com/th/id/R.c620e3ef7b7e6c10cb649fc65250e76f?rik=GHPwv0C0WkCATQ&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Fidan</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
