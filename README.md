@@ -1,21 +1,17 @@
 ![MasterHead](./pixil-gif-drawing.gif)
 <h1 align="center">Hi 👋, I'm Fidan</h1>
 
-<div align="center">
-  <a href="https://github.com/thefidanabdulla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefidanabdulla&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://bestanimations.com/Earth&Space/astronaut-in-space-animation-4.gif" />
 
 
-- 🔭 I’m currently working on **Frontend development projects**
-
-- 🌱 I’m currently learning **React Redux/Toolkit, as well as a Frontend technology**
-
-- ⚡ Fun fact **I like to learn new, interesting and creative things**
+<div align="left">
+  <a href="https://github.com/thefidanabdulla">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefidanabdulla&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
