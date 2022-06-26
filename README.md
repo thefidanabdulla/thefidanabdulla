@@ -18,7 +18,7 @@
 <a href="https://twitter.com/thefidanabdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thefidanabdulla" height="30" width="40" /></a>
 <a href="https://fb.com/fidan.abdulla.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fidan.abdulla.1" height="30" width="40" /></a>
 <a href="https://instagram.com/thefidanabdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thefidanabdulla" height="30" width="40" /></a>
-<a href="https://discord.gg/807896776308031519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="807896776308031519" height="30" width="40" /></a>
+<a href="[https://discord.gg/807896776308031519](https://discord.gg/9YQwhHhK)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="807896776308031519" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
