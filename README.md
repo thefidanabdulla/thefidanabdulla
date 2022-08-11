@@ -8,10 +8,6 @@
 <img align="right" alt="Coding" width="400" src="./astronaut.gif" />
 
 
-<div align="left">
-  <a href="https://github.com/thefidanabdulla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefidanabdulla&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
