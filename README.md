@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="./astronaut.gif" />
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefidanabdulla&hide=ruby&theme=tokyonight)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
