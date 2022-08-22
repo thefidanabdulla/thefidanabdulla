@@ -13,6 +13,14 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefidanabdulla&layout=compact&theme=great-gatsby&hide_border=true" />
 <div>
 
+<h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="40px"> </h1>
+<p align="left">
+<a href="https://twitter.com/thefidanabdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zohrab003" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fidan-abdulla-53917522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zohrabsemedzade3" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fidan.abdulla.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zohrab semedzade" height="30" width="40" /></a>
+<a href="https://instagram.com/thefidanabdulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhrb_semedzade" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
