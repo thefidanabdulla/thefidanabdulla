@@ -5,10 +5,7 @@
 
 
 
-<div align="center">
-    <img width="50%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefidanabdulla&layout=compact&theme=great-gatsby&hide_border=true" />
-<div>
+
 
 
 
