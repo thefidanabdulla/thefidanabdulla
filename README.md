@@ -1,2 +1,2 @@
-![MasterHead](./anime.gif)
+![MasterHead](./pixil-gif-drawing.gif)
 
